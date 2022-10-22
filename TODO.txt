@@ -1,0 +1,4 @@
+Add feature: "add another defect"
+Add feature: "Select Aclass operator"
+
+Fix "resetPart" and "resetProject"
